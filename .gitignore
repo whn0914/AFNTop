@@ -1,5 +1,6 @@
 # 排除build目录
 build/*
+Pods/*
  
 # Exclude temp nibs and swap files
 # 排除nib临时文件和交换文件
